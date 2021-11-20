@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xieyt2000&column=7)](https://github.com/xieyt2000)
+
+[![xieyt2000's github stats](https://github-readme-stats.vercel.app/api?username=xieyt2000&show_icons=true)](https://github.com/xieyt2000/)
